@@ -1,2 +1,5 @@
 # hello-world
-my first repo, yay
+
+Hi friends, 
+My name is aly.
+
